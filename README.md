@@ -48,7 +48,7 @@ Results are saved in a CSV file on your local machine, with each row representin
 
 ## Setup
 
-1. **Clone the repository to your local machine using the following command:**:
+1. **Clone the repository to your local machine using the following command**:
    git clone https://github.com/your-username/your-repository-name.git
    cd your-repository-name
    
