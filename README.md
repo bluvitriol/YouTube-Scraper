@@ -45,3 +45,18 @@ Results are saved in a CSV file on your local machine, with each row representin
 - Academic research on video content
 - Content creator market research
 - Video platform analytics
+
+## Setup
+
+1. **Clone the repository to your local machine using the following command:**:
+   git clone https://github.com/your-username/your-repository-name.git
+   cd your-repository-name
+   
+2. **Create a .env file in the root directory and add your YouTube API key**:
+   api_key=YOUR_API_KEY
+
+3. **Install the required dependencies**:
+   pip install -r requirements.txt
+
+4. **Run the project**:
+   jupyter notebook
